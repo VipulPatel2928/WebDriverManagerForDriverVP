@@ -33,6 +33,5 @@ public class BrowserLaunchwithoutJarandDriverManuallyUsed {
 		waitForSeconds(2);
 
 		driver.quit();
-
 	}
 }
